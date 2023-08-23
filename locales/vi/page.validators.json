@@ -1,6 +1,6 @@
 {
   "This value is determined by the network parameter ‘network.validators.ersatz.multipleOfTendermintValidators’ multiplied by ‘network.validators.tendermint.number’": "Giá trị này được xác định bởi tham số mạng ‘network.validators.ersatz.multipleOfTendermintValidators’ nhân với ‘network.validators.tendermint.number",
-  "Limit*": "Giới hạn*",
+  "Limit*": " Giới hạn*",
   "Reward multiplier**": "Hệ số thưởng**",
   "Validator Score": "Điểm xác nhận",
   "Candidate Validators": "Trình xác thực ứng viên",
